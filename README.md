@@ -1,5 +1,5 @@
 # RestartRdcService
-An script to restart the Windows Remote Desktop Service (TermService) in PowerShell.
+A script to restart the Windows Remote Desktop Service (TermService) in PowerShell.
 
 ## Usage with pwsh.exe
 This script does not work with PowerShell Core, just Windows PowerShell.
